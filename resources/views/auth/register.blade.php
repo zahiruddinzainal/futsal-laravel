@@ -14,7 +14,7 @@
             <div class="col-12 col-sm-12 col-lg-6  col-md-6 shadow-lg pt-5 bg-light">
                 <div class="text-center">
                     <a href="/" class="navbar-brand d-flex align-items-center px-5 px-lg-5">
-                        <img style="width:auto; height: 60px;" src="img/uitm_logo.png" alt="Image">
+                        <img style="width:auto; height: 60px;" src="/img/uitm_logo.png" alt="Image">
                     </a>
                 </div>
                 <form method="post" action="{{ route('register.perform') }}">
