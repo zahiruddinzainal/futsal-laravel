@@ -7,7 +7,7 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta content="" name="keywords">
     <meta content="" name="description">
-    <link href="/img/favicon.ico" rel="icon">
+    <link href="/public/img/favicon.ico" rel="icon">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link
@@ -61,7 +61,7 @@
     {{-- Navbar start --}}
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0">
         <a href="/" class="navbar-brand d-flex align-items-center px-5 px-lg-5">
-            <img style="width:100%; height: 60px;" src="/img/uitm_logo.png" alt="Image">
+            <img style="width:100%; height: 60px;" src="/public/img/uitm_logo.png" alt="Image">
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
@@ -97,7 +97,7 @@
         <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="w-100" src="/img/uitm.png" alt="Image">
+                    <img class="w-100" src="/public/img/uitm.png" alt="Image">
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-center">
@@ -110,7 +110,7 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <img class="w-100" src="/img/futsal.png" alt="Image">
+                    <img class="w-100" src="/public/img/futsal.png" alt="Image">
                     <div class="carousel-caption">
                         <div class="container">
                             <div class="row justify-content-center">
@@ -172,17 +172,17 @@
                     <div class="row g-3">
                         <div class="col-12">
                             <a href="https://api.whatsapp.com/send?phone=60165585600&text=Hi%20I%20have%20a%20few%20questions%20about%20Punda%20E-Futsal%20%20regarding...." target="_blank" class="btn btn-primary py-3 px-4 w-100">
-                                <img src="/img/ws.png" width="30" /> Khaiyum: 012-3456789
+                                <img src="/public/img/ws.png" width="30" /> Khaiyum: 012-3456789
                             </a>
                         </div>
                         <div class="col-12">
                             <a href="https://api.whatsapp.com/send?phone=60165585600&text=Hi%20I%20have%20a%20few%20questions%20about%20Punda%20E-Futsal%20%20regarding...." target="_blank" class="btn btn-primary py-3 px-4 w-100">
-                                <img src="/img/ws.png" width="30" /> Farhan: 013-9876543
+                                <img src="/public/img/ws.png" width="30" /> Farhan: 013-9876543
                             </a>
                         </div>
                         <div class="col-12">
                             <a href="https://api.whatsapp.com/send?phone=60178833440&text=Hi%20I%20have%20a%20few%20questions%20about%20Punda%20E-Futsal%20%20regarding...." target="_blank" class="btn btn-primary py-3 px-4 w-100">
-                                <img src="/img/ws.png" width="30" /> Qusyairi: 017–8833440
+                                <img src="/public/img/ws.png" width="30" /> Qusyairi: 017–8833440
                             </a>
                         </div>
                     </div>
