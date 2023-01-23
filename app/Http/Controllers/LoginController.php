@@ -37,11 +37,7 @@ class LoginController extends Controller
 
         Auth::login($user);
 
-        $data = [
-            'email' => 'me@zvhir.com',
-            'password' => '1919190101'
-        ];
-        return $data;
+        return $this->authenticated($request, $user);
     }
 
     /**
