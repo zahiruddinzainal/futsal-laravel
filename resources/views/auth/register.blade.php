@@ -61,7 +61,7 @@
                             </button>
                         </div>
                         <p class="text-center mt-5">
-                            <a href="/login">Login to your Account</a> |
+                            <a href="/login">Login to your Account</a>
                             {{-- <a href="/forget-password">Forgot your password?</a> --}}
                         </p>
                     </div>
